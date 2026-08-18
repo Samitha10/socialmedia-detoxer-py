@@ -1,5 +1,7 @@
 # Social Media Summarizing tool
 
+**Read full blog here - https://app.capacities.io/home/f4a1ac95-6b67-4204-b154-629fa44c3576**  
+
 A workflow tool for downloading social media videos, extracting audio, transcribing speech, and generating AI-powered notes using local LLMs.
 
 ## Features
@@ -54,6 +56,7 @@ api-key = "no"
 
 Update the `server` and `api-key` values in `config/server.toml` to match your local setup.
 
+**For sound extracting purposes, it uses ffmpeg. Install the ffmpeg here - `C:\ffmpeg\bin`**
 ## Quick Start
 
 1. **Start the llama.cpp server** (if not already running):
