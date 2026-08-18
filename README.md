@@ -133,6 +133,3 @@ This project is licensed under the MIT License (see `LICENSE` file for details).
 
 Contributions are welcome! Please ensure any changes maintain compatibility with the local llama.cpp server and the streaming workflow.
 
-## Support
-
-For issues or questions, check the [GitHub repository](https://github.com/your-org/workflow-post-py) for additional documentation and community support.
